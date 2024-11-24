@@ -2,7 +2,7 @@
 
 > Conway's Game of Life made with Java
 
-**conways** is a simple implementation of **Conway's Game of Life** in Java.
+**jonways** is a simple implementation of **Conway's Game of Life** in Java.
 
 ![In action](https://raw.githubusercontent.com/rtxx/conways/main/conways.gif)
 
@@ -18,4 +18,4 @@
 ## How to run it
 
 - Run `mvn clean install`
-- Run `java -jar target/conways-1.0-SNAPSHOT-jar-with-dependencies.jar`
+- Run `java -jar target/jonways-1.0-SNAPSHOT-jar-with-dependencies.jar`
