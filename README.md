@@ -1,4 +1,4 @@
-# Conways
+# Jonways
 
 > Conway's Game of Life made with Java
 
